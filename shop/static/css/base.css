@@ -282,6 +282,10 @@ ul.errorlist {
     margin: 0;
 }
 
+.languages .selected {
+    font-weight: bold;
+}
+
 .recommendations {
     clear: both;
 }
